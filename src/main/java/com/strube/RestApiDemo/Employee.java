@@ -20,6 +20,14 @@ public class Employee {
         this.role = role;
     }
 
+    public Long getId() {
+        return this.id;
+    }
+
+    public Long setId(Long id) {
+        return this.id;
+    }
+
     public String getName() {
         return this.name;
     }
