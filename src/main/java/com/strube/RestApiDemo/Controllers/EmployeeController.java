@@ -2,8 +2,6 @@ package com.strube.RestApiDemo.Controllers;
 
 import java.util.List;
 
-import javax.persistence.EntityNotFoundException;
-
 import com.strube.RestApiDemo.Employee;
 import com.strube.RestApiDemo.Exceptions.EmployeeNotFoundException;
 import com.strube.RestApiDemo.Repositories.EmployeeRepository;
